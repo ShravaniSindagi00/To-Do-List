@@ -7,7 +7,7 @@ The application utilizes local storage to ensure that tasks persist even after r
 
 <br>
 
-Key Features:
+Key Features:<br>
 Add Tasks: Users can easily add new tasks to the list.<br>
 Check Off Tasks: Click on a task to mark it as completed, toggling a visual "checked" state.<br>
 Delete Tasks: Remove tasks from the list with a simple click on the delete button.<br>
