@@ -8,14 +8,14 @@ The application utilizes local storage to ensure that tasks persist even after r
 <br>
 
 Key Features:
-Add Tasks: Users can easily add new tasks to the list.
-Check Off Tasks: Click on a task to mark it as completed, toggling a visual "checked" state.
-Delete Tasks: Remove tasks from the list with a simple click on the delete button.
-Persistent Storage: Tasks are saved in local storage, ensuring that they are retained across sessions.
+Add Tasks: Users can easily add new tasks to the list.<br>
+Check Off Tasks: Click on a task to mark it as completed, toggling a visual "checked" state.<br>
+Delete Tasks: Remove tasks from the list with a simple click on the delete button.<br>
+Persistent Storage: Tasks are saved in local storage, ensuring that they are retained across sessions.<br>
 
 <br>
 
-Technologies Used:
-HTML
-CSS
-JavaScript
+Technologies Used:<br>
+HTML<br>
+CSS<br>
+JavaScript<br>
