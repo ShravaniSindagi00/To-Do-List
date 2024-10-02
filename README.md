@@ -1,8 +1,5 @@
 # To-Do-List
 This To-Do List application is a simple yet effective tool for managing tasks. It allows users to add, check off, and delete tasks dynamically.
-
-<br>
-
 The application utilizes local storage to ensure that tasks persist even after refreshing or closing the browser, providing a seamless user experience.
 
 <br>
